@@ -4,5 +4,4 @@ export type DeveloperType = {
 	achternaam: string;
 	expertise: string;
 	avatar: string;
-	pluim: boolean;
 }
