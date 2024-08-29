@@ -1,8 +1,8 @@
 # Svelte + TS + Vite
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+This template should help get you started developing with Svelte and TypeScript in Vite. Below are the steps that were taken to create this template
 
-Steps:
+Steps to reproduce:
 1. npm create vite@latest
 2. choose a project name
 3. select Svelte
